@@ -14,10 +14,10 @@ guide the user towards the available path.
 the blind person can hear.
 
  * Currently, various instruments are invented to help the visually blind people by 
-many methods. Our project helps to improve the strength of the people by automatic 
+many methods. The project helps to improve the strength of the people by automatic 
 navigation. By wearing this aid, they can face any obstacles without any fear. In the 
-yearly projects, many of them used infrared sensor, but in this project we use 
-ultrasonic sensor to measure the distance. Our aim is to provide an efficient 
+yearly projects, many of them used infrared sensor, but in this project I use 
+ultrasonic sensor to measure the distance.  Aim is to provide an efficient 
 instrument to blind people. It leads to good results in detecting the obstacles, 
 wherever the blind is. Wearing an aid is more convenient than carrying a stick 
 wherever they go.

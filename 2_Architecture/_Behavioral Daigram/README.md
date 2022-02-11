@@ -1,3 +1,7 @@
+ # MODELLING ATTRIBUTES
+ 
+ ## MODEL OF THE PROJECT
+ 
  In My  work I tried to overcome some of disadvantage:
 
 1. The training of our product isn’t as expensive as Training in other product. 

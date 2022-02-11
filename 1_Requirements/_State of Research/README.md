@@ -1,4 +1,4 @@
-##  LITERATURE REVIEW:
+##  Project Research:
 
  Visually impaired people find difficulties detecting obstacles in front 
 of them, during walking in the street, which makes it dangerous. The smart stick 

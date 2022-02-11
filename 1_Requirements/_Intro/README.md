@@ -1,7 +1,7 @@
 
 # ABSTRACT
 
- * Our project presents a theoretical model and a system concept to 
+ * My project presents a theoretical model and a system concept to 
 provide a smart electronic aid for blind people. The system is intended to provide 
 overall measures- like Artificial vision and object detection. The aim of the overall 
 system is to provide a low cost and efficient navigation aid for blind which gives a 

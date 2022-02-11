@@ -1,4 +1,4 @@
- # HARDWARE:
+ # HARDWARES:
  
 1. Buzzer
 2. Potentiometer
@@ -8,6 +8,8 @@
 6. Transistor
 7. Resistor
 8. LCD
+These  are the some Hardware components are used in this Project.
+
 ## BUZZER:
 
    It is used to alert the blind people by giving the sound. Alarming Circuits, where 
@@ -25,7 +27,7 @@ Moreover, it should be noted that radar sensors can easily detect near and far
 obstacles with equal perform once, but their medium accuracy doesn't allow them 
 detecting small obstacles. Ultrasonic sensor used 40 kHz transmission signal. This 
 is a reasonable size to be installed in the Aid. It is used to detect upward and downward stairs because the sensor spot is roughly 6 cm. This feature enables the 
-user to identify precisely, any kind of stairs in front of him.
+user to identify precisely, any kind of stairs in front of him or her.
 
 ![image](https://user-images.githubusercontent.com/79265271/153566937-e820d7d8-0ff8-4e37-a936-e5757dbd6e0c.png)
 

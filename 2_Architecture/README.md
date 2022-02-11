@@ -5,5 +5,6 @@
    * Structural
    * Behavioural
            
-           Flowchart
-           Use case daigram
+           Model Of Project
+           BLock Daigram
+           Conceptional Daigram

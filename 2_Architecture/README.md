@@ -3,8 +3,8 @@
 # Design
 
    * Structural
-   * Behavioural
+   * Behavioral
            
            Model Of Project
-           BLock Daigram
-           Conceptional Daigram
+           BLock Diagram
+           Conceptional Diagram

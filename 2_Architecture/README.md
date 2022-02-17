@@ -2,9 +2,10 @@
 
 # Design
 
-   * Structural
-   * Behavioral
-           
-           Model Of Project
-           BLock Diagram
-           Conceptional Diagram
+   * Behavioral Diagram
+   
+       Model of the  project
+       
+       Conceptional Diagram
+       
+   * Block Diagram

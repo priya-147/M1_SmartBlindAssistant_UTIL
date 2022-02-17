@@ -33,3 +33,8 @@ The Blind System hopes to allow visually impaired users to be aware about the ob
 ## Conclusion
 
 This Project provides a new concept of smart electronic aid for blind people. The project lies in the fact that it can prove to be very low cost solution to millions of blind people worldwide. The proposed combination of various working units makes a real-time system that monitors position of the user and provides feedback making navigation more safe and secure.It is effective and afford. It leads to good results in detecting the obstacles lying ahead of the user in a range of four meters, detecting stairs and water pits. This system offers a low- cost, reliable, portable, low-power consumption and robust solution for navigation with obvious short response time.
+
+## References
+http://www.engineersgarage.com
+
+http://pdfserv.maximintegrated.com/en/ds/MAX756-MAX757.pdf

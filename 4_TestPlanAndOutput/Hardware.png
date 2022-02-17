@@ -1,1 +1,15 @@
 
+MAJORE HARDWARE:
+
+1.Buzzer
+2.Potentiometer
+3.Ultrasonic Sensor
+4.Bread Board
+5.Wire – Normal Wire
+6.Transistor
+7.Resistor
+8.LCD
+ULTRASONIC SENSOR:
+Ultrasonic sensor work well for close obstacles unlike laser one, when an object is so close the laser sensor (less than 15 cm) can’t get an accurate reading. Moreover, it should be noted that radar sensors can easily detect near and far obstacles with equal perform once, but their medium accuracy doesn't allow them detecting small obstacles. Ultrasonic sensor used 40 kHz transmission signal. This is a reasonable size to be installed in the Aid. It is used to detect upward and
+
+downward stairs because the sensor spot is roughly 6 cm. This feature enables the user to identify precisely, any kind of stairs in front of him.

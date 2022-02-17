@@ -1,4 +1,4 @@
-# Introduction
+# Description
  This project presents a theoretical model and a system concept to 
 provide a smart electronic aid for blind people. The system is intended to provide 
 overall measures- like Artificial vision and object detection. The aim of the overall 

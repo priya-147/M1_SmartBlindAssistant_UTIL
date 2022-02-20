@@ -11,3 +11,6 @@ https://app.codiga.io/project/31167/dashboard
  
  ## Gitinspector
  [![Git Inspector](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/gitinspector.yml)
+
+## Codequality
+[![Valgrind](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/codequality.yml/badge.svg)](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/codequality.yml)

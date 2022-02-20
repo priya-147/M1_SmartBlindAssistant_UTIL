@@ -4,3 +4,7 @@
 
  # BADGE
 https://app.codiga.io/project/31167/dashboard
+
+# BADGES
+ ## Build
+ [![CI](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/build.yml/badge.svg)](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/build.yml)

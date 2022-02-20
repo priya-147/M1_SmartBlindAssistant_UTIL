@@ -18,4 +18,4 @@
 [![cppcheck-action](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/cpp.yml/badge.svg)](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/cpp.yml)
 
 ## BADGE
-https://app.codiga.io/project/31167/dashboard
+https://app.codiga.io/home

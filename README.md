@@ -2,6 +2,11 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ec12c7c4506f421b8b5c346368d66847)](https://www.codacy.com/gh/priya-147/M1_SmartBlindAssistant_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=priya-147/M1_SmartBlindAssistant_UTIL&amp;utm_campaign=Badge_Grade)
 
+## Code Quality Score
+![image](https://user-images.githubusercontent.com/79265271/155772083-833247a7-244f-4e4d-a712-3b3505fd4f30.png)
+
+## Code Grade
+![image](https://user-images.githubusercontent.com/79265271/155772129-c9dac7d7-fe79-4d00-8275-ff2f54aa9d6a.png)
 
 
 # BADGES

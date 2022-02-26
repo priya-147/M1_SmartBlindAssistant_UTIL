@@ -11,7 +11,7 @@
 
 # BADGES
  ## Build
- [![CI](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/build.yml/badge.svg)](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/build.yml)
+ [![CI](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/built.yml/badge.svg)](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/built.yml)
  
  ## Gitinspector
  [![Git Inspector](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/priya-147/M1_SmartBlindAssistant_UTIL/actions/workflows/gitinspector.yml)
@@ -36,8 +36,8 @@ Folder             | Description
 ##  Features
 | Feature Id | Feature |
 | -----------|---------|
-|F_01| Insert Movie | |
-|F_02|View All Movie |
-|F_03| Find Movie |
-|F_04| Book Ticket |
-|F_05| View All Transactions |
+|F_01| detects the object | |
+|F_02|avoid obstacles |
+|F_03| play a protective role |
+|F_04| measures the distance of target |
+|F_05| alert the person |

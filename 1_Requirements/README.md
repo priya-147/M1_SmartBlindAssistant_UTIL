@@ -59,7 +59,7 @@ designed to solve such issue. wherever they go.
    * Simple to use with low cost.
 # Weakness
    Little senosor support in this fields.
-# opportunities
+# Opportunities
    The device for the visually impaired to guide the user to respective destination and avoiding to collide with the obstacles.
 # Threads
    Easy to use this device.
